@@ -1,0 +1,6 @@
+{
+  "name": "plug-render-disposable-ingress-probe",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.mjs" }
+}
